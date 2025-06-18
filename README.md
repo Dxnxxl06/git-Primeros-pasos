@@ -1,8 +1,8 @@
 # Un Hermoso TItulo
 Una hermosa descripcion del tiutulo.
 ## Colaboradores 
--Daniel Plazas /n
--Diosito
+ -Daniel Plazas
+ -Diosito
 
 ## Un Hermoso Sub-Titulo
 Una hermosa descripcion del titulo
